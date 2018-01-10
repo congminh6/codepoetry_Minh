@@ -7,3 +7,5 @@ sysuse auto
 reg price mpg
 
 summary
+hist price
+* this is not good
